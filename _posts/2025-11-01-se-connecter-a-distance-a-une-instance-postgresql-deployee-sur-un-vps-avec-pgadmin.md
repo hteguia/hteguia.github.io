@@ -43,4 +43,4 @@ $ docker inspect def012345678 | grep IPAddress
     "IPAddress": "666.13.0.1",
 ```
 
-![Texte alternatif](/assets\images\2025-11-01-se-connecter-a-distance-a-une-instance-postgresql-deployee-sur-un-vps-avec-pgadmin/1.png )
+![Texte alternatif](/assets/images/2025-11-01-se-connecter-a-distance-a-une-instance-postgresql-deployee-sur-un-vps-avec-pgadmin/1.png )
