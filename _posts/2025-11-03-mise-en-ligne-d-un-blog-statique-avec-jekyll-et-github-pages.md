@@ -1,9 +1,9 @@
 ---
 title: "Mise en ligne d’un blog statique avec Jekyll et GitHub Pages"
-description: "Apprenez à connecter votre ordinateur à une base de données PostgreSQL exécutée dans Docker sur un VPS en utilisant le réseau privé de Tailscale. Une solution simple, sécurisée et idéale pour le développement et l'administration à distance."
+description: "Guide complet pour créer et publier votre blog technique gratuitement avec Jekyll et GitHub Pages. Apprenez à configurer Jekyll, personnaliser le thème Chirpy et déployer automatiquement votre blog en quelques minutes."
 date: 2025-11-03
-categories: [DevOps, PostgreSQL, Docker]
-tags: [PostgreSQL, Docker, Tailscale, VPS, Réseau, Base de données]
+categories: [DevOps, Jekyll, Blog]
+tags: [Jekyll, GitHub Pages, Blog, Statique, Chirpy, GitHub]
 ---
 
 # Jekyll : un générateur de site statique
