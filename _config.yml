@@ -143,12 +143,14 @@ assets:
 pwa:
   enabled: true # The option for PWA feature (installable)
   cache:
-    enabled: false # The option for PWA offline cache - DISABLED to prevent cache issues
+    enabled: true # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
     # Usually its value is the `baseurl` of another website that
     # shares the same domain name as the current website.
     deny_paths:
-      # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
+      - "/"
+      - "/index.html"
+      - "/posts/*"  # Exclude posts to ensure updates are always fresh
 
 paginate: 10
 
